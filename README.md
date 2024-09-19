@@ -9,6 +9,6 @@ O projeto irá criar uma APIRestful para simular uma locadora de filmes. Iremos 
 
 ## Ferramentas
 
-1- Java + Spring Boot: BackEnd
-2- MySQL: Banco de dados
-3- HTML,CSS e JS: FrontEnd
+    1- Java + Spring Boot: BackEnd
+    2- MySQL: Banco de dados
+    3- HTML,CSS e JS: FrontEnd
