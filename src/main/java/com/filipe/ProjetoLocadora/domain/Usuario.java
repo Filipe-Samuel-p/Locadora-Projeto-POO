@@ -1,7 +1,10 @@
 package com.filipe.ProjetoLocadora.domain;
 
-import javax.annotation.processing.Generated;
+import jakarta.persistence.*;
+
 import java.io.Serial;
+import java.io.Serializable;
+
 
 
 @Entity
